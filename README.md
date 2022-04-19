@@ -2,8 +2,8 @@
 
 I am a Developer and Coder
 
---------------------------
-Projekts comming soon
+--
+Projekts comming soon--
 
 
 <!---

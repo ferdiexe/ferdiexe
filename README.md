@@ -1,7 +1,7 @@
 # Hi there, I'm Ferdi - aka [ferdiexe][youtube] 👋 
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCVbqIju7rahUWjuu2GPMVMQ?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
-[![Twitter Follow](https://img.shields.io/twitter/follow/ferdiexe_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fferdiexe&screen_name=ferdiexe)
+[![Twitter Follow](https://img.shields.io/twitter/follow/ferdiexe_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fferdiexe_&screen_name=ferdiexe_)
 
 
 ## I'm a programmer and a developer!
@@ -22,4 +22,4 @@
 </details>
 
 [twitter]: https://twitter.com/ferdiexe_
-[youtube]:https://www.youtube.com/channel/UCVbqIju7rahUWjuu2GPMVMQ
+[youtube]: https://youtube.com/ferdiexe

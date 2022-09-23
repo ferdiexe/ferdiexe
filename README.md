@@ -22,4 +22,4 @@
 </details>
 
 [twitter]: https://twitter.com/ferdiexe_
-[youtube]: https://youtube.com/ferdiexe
+[youtube]: https://youtube.com/channel/UCVbqIju7rahUWjuu2GPMVMQ
